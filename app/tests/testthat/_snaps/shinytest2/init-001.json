@@ -1,0 +1,19 @@
+{
+  "input": {
+    "data-dataset_select-dataset": "ability.cov",
+    "data-variable_select-variable": "cov.general",
+    "data2-dataset_select-dataset": "ability.cov",
+    "data2-variable_select-variable": "cov.general",
+    "js_message": 0,
+    "my_text_in": "",
+    "weather_var_x-variable": "min_temp_mean",
+    "weather_var_y-variable": "min_temp_mean"
+  },
+  "output": {
+    "data-module_out": "Selected variable `cov.general` from dataset `ability.cov`",
+    "data-table": "<table  class = 'table shiny-table table- spacing-s' style = 'width:auto;'>\n<thead> <tr> <th style='text-align: right;'> cov.general <\/th> <th style='text-align: right;'> cov.picture <\/th> <th style='text-align: right;'> cov.blocks <\/th> <th style='text-align: right;'> cov.maze <\/th> <th style='text-align: right;'> cov.reading <\/th> <th style='text-align: right;'> cov.vocab <\/th> <th style='text-align: right;'> center <\/th> <th style='text-align: right;'> n.obs <\/th>  <\/tr> <\/thead> <tbody>\n  <tr> <td align=\"right\"> 24.64 <\/td> <td align=\"right\"> 5.99 <\/td> <td align=\"right\"> 33.52 <\/td> <td align=\"right\"> 6.02 <\/td> <td align=\"right\"> 20.75 <\/td> <td align=\"right\"> 29.70 <\/td> <td align=\"right\"> 0.00 <\/td> <td align=\"right\"> 112.00 <\/td> <\/tr>\n  <tr> <td align=\"right\"> 5.99 <\/td> <td align=\"right\"> 6.70 <\/td> <td align=\"right\"> 18.14 <\/td> <td align=\"right\"> 1.78 <\/td> <td align=\"right\"> 4.94 <\/td> <td align=\"right\"> 7.20 <\/td> <td align=\"right\"> 0.00 <\/td> <td align=\"right\"> 112.00 <\/td> <\/tr>\n  <tr> <td align=\"right\"> 33.52 <\/td> <td align=\"right\"> 18.14 <\/td> <td align=\"right\"> 149.83 <\/td> <td align=\"right\"> 19.42 <\/td> <td align=\"right\"> 31.43 <\/td> <td align=\"right\"> 50.75 <\/td> <td align=\"right\"> 0.00 <\/td> <td align=\"right\"> 112.00 <\/td> <\/tr>\n  <tr> <td align=\"right\"> 6.02 <\/td> <td align=\"right\"> 1.78 <\/td> <td align=\"right\"> 19.42 <\/td> <td align=\"right\"> 12.71 <\/td> <td align=\"right\"> 4.76 <\/td> <td align=\"right\"> 9.07 <\/td> <td align=\"right\"> 0.00 <\/td> <td align=\"right\"> 112.00 <\/td> <\/tr>\n  <tr> <td align=\"right\"> 20.75 <\/td> <td align=\"right\"> 4.94 <\/td> <td align=\"right\"> 31.43 <\/td> <td align=\"right\"> 4.76 <\/td> <td align=\"right\"> 52.60 <\/td> <td align=\"right\"> 66.76 <\/td> <td align=\"right\"> 0.00 <\/td> <td align=\"right\"> 112.00 <\/td> <\/tr>\n  <tr> <td align=\"right\"> 29.70 <\/td> <td align=\"right\"> 7.20 <\/td> <td align=\"right\"> 50.75 <\/td> <td align=\"right\"> 9.07 <\/td> <td align=\"right\"> 66.76 <\/td> <td align=\"right\"> 135.29 <\/td> <td align=\"right\"> 0.00 <\/td> <td align=\"right\"> 112.00 <\/td> <\/tr>\n   <\/tbody> <\/table>"
+  },
+  "export": {
+
+  }
+}

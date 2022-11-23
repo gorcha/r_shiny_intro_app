@@ -1,0 +1,6 @@
+default:
+  title: "My wonderful application"
+  debug: true
+
+rsconnect:
+  debug: false
