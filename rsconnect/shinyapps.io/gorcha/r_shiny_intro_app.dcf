@@ -1,0 +1,14 @@
+name: r_shiny_intro_app
+title: r_shiny_intro_app
+username:
+account: gorcha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7715859
+bundleId: 6547340
+url: https://gorcha.shinyapps.io/r_shiny_intro_app/
+when: 1669216408.06928
+lastSyncTime: 1669216408.06933
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .github/workflows/check-app.yaml|.Rprofile|data-raw/process_data.R|data-raw/weatherAUS.csv|data-raw/weatherAUS.csv.zip|LICENSE.md|README.md
